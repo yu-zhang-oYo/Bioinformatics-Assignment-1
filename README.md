@@ -2,6 +2,7 @@
 assignment about sequence matching and waiting time
 
 1) Exercise For the DNA sequence ACGCTGA,
+
 (i) determine the number of mononucleotide permutations;
 (ii) find all dinucleotide permutations that also preserve the mononucleotide composition.
 (iii) Can you find additional dinucleotide permutations that do not preserve the mononucleotide composition? Explain in general if and when that might be possible.
